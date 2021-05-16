@@ -31,10 +31,10 @@ Projeto desenvolvido durante a **NLW - Next Level Week** oferecida pela [Rockets
 ### Web
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Podcastr" title="Podcastr" src="./.github/logo1.png" width="400px">
+  <img alt="Podcastr" title="Podcastr" src="./.github/logo1.png" width="720px">
   <hr>
   <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="Podcastr" title="Podcastr" src="./.github/logo2.png" width="400px">
+  <img alt="Podcastr" title="Podcastr" src="./.github/logo2.png" width="720px">
 </p>
 
 ---
