@@ -84,7 +84,7 @@ $ (yarn) yarn dev
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-#### **Website**  [TypeScript](https://www.typescriptlang.org/)
+#### **Website**   [TypeScript](https://www.typescriptlang.org/)
 
 -   **[Reactjs](https://pt-br.reactjs.org/)**
 -   **[Axios](https://github.com/axios/axios)**
